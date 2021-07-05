@@ -1,28 +1,33 @@
 body{
     font-family: 'Poppins';
+    margin: 0;
 }
 h1, h2{
     font-size: 50px;
-
+    margin: 0;
 }
 span{
     color: orange;
 }
 img{
-    width: 100%;
+    width: auto;
     border-radius: 50%;
+    height: auto;
+}
+div{
+ 
+    padding: 10%;
 }
 section{
     display: flex;
 }
-div{
-    padding: 2%;
-}
-.button{
+
+.button-first{
     text-decoration: none;
-    background-color: orange;
+    background-color: #ffa600bf;
     padding: 10px 40px;
-    color: white;
-    font-weight: 700;
+    color:#000000;
     border-radius: 10px;
+    display:inline-block;
+    margin-top: 1em;
 }
