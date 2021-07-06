@@ -74,3 +74,15 @@ span{
 .footer h2{
     color: white;
 }
+.space{
+    margin: 0 auto;
+}
+.like{
+    margin-top: 5%;
+}
+.customer{
+    padding: auto;
+}
+.shadow{
+    box-shadow: 1px 1px 25px gray;
+}
